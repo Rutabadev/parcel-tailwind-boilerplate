@@ -5,6 +5,18 @@
 /* Extending Tailwing with my own components*/
 @layer components {
    .btn {
-      @apply uppercase text-white bg-primary-700 rounded py-2 px-6;
+      @apply text-gray-800 bg-white rounded py-2 px-6 cursor-pointer shadow select-none border-t-2 border-transparent;
+
+      &:hover {
+         @apply bg-gray-50;
+      }
+
+      &:focus {
+         @apply outline-none border-primary-600;
+      }
+
+      &:active {
+         @apply shadow-sm;
+      }
    }
 }
