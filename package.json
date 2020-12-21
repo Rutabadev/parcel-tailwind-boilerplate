@@ -11,11 +11,13 @@
       "@tailwindcss/postcss7-compat": "^2.0.2",
       "autoprefixer": "^9",
       "parcel-bundler": "^1.12.4",
-      "postcss": "^7",
       "postcss-easy-import": "^3.0.0",
       "postcss-modules": "^4.0.0",
       "postcss-nesting": "^7.0.1",
       "posthtml-include": "^1.6.0",
       "tailwindcss": "npm:@tailwindcss/postcss7-compat"
+   },
+   "resolutions": {
+      "postcss": "^7"
    }
 }
