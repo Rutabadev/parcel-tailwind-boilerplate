@@ -1,4 +1,4 @@
-# Parcel Tailwind Boilerplate
+# Parcel Tailwind Boilerplate (parcel-tailwind-boilerplate)
 
 This is a basic web development boilerplate with useful tools:
 
