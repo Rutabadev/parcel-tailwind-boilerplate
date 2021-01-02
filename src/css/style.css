@@ -1,6 +1,2 @@
 /*noinspection CssUnknownTarget*/
 @import './*.css';
-
-section:not(:first-child) {
-   @apply mt-10;
-}
