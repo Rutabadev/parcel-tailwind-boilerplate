@@ -1,0 +1,7 @@
+/*noinspection CssUnknownTarget*/
+@import './*.css';
+
+section:not(:first-child) {
+   @apply pt-10;
+}
+
